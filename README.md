@@ -1,7 +1,7 @@
 # Time Zones API
 This is a simple API for developers who want a short simplified aggregation of time zones.
 
-**Link to project:** ---
+**Link to project:** https://adorable-toad-bikini.cyclic.app/
 
 ## How It's Made:
 
