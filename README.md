@@ -1,9 +1,7 @@
 # Time Zones API
 This is a simple API for developers who want a short simplified aggregation of time zones.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-<a href="#">Check it out here</a>
+**Link to project:** ---
 
 ## How It's Made:
 
